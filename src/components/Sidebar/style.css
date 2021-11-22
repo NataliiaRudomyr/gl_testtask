@@ -1,0 +1,10 @@
+.nav {
+  width: 400px;
+  font-size: 26px;
+  text-align: center;
+}
+
+.active {
+  font-size: 36px;
+  text-decoration: underline;
+}
